@@ -1,0 +1,13 @@
+:root {
+  --ion-color-primary: #4CAF50;
+  --ion-color-secondary: #FFC107;
+  --ion-color-tertiary: #FF5722;
+  --ion-font-family: 'Poppins', sans-serif;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --ion-background-color: #1e1e1e;
+    --ion-text-color: #f4f4f4;
+  }
+}
